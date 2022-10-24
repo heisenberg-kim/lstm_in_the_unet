@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/07_DTLN.iml" filepath="$PROJECT_DIR$/.idea/07_DTLN.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/TinyML/code/20210420_DTLN_code/emulator_dnrmos/.idea/emulator_dnrmos.iml" filepath="$USER_HOME$/Desktop/TinyML/code/20210420_DTLN_code/emulator_dnrmos/.idea/emulator_dnrmos.iml" />
+    </modules>
+  </component>
+</project>
